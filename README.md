@@ -1,16 +1,99 @@
-# React + Vite
+# React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React application built with **Vite** for fast development and optimized production builds.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ⚛️ React 19
+- ⚡ Vite for lightning-fast development
+- 🔥 Hot Module Replacement (HMR)
+- 📦 Fast production builds
+- ✅ ESLint for code quality
+- 🎨 Easy to customize and extend
 
-## React Compiler
+## 📁 Project Structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```
+project-name/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│── package.json
+│── vite.config.js
+│── README.md
+```
 
-## Expanding the ESLint configuration
+## 🛠️ Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for more information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+
+Navigate to the project folder:
+
+```bash
+cd project-name
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+## ▶️ Run Development Server
+
+```bash
+npm run dev
+```
+
+The application will start at:
+
+```
+http://localhost:5173
+```
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+## 👀 Preview Production Build
+
+```bash
+npm run preview
+```
+
+## 🧹 Lint the Project
+
+```bash
+npm run lint
+```
+
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS
+- ESLint
+
+## 📌 Requirements
+
+- Node.js 18 or later
+- npm or yarn
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+Developed using **React** and **Vite**.
