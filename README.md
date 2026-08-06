@@ -11,21 +11,6 @@ A modern React application built with **Vite** for fast development and optimize
 - ✅ ESLint for code quality
 - 🎨 Easy to customize and extend
 
-## 📁 Project Structure
-
-```
-project-name/
-│── public/
-│── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   ├── main.jsx
-│── package.json
-│── vite.config.js
-│── README.md
-```
 
 ## 🛠️ Installation
 
