@@ -20,8 +20,6 @@ Clone the repository:
 git clone <repository-url>
 ```
 
-Navigate to the project folder:
-
 ```bash
 cd project-name
 ```
