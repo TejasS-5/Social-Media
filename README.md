@@ -64,7 +64,7 @@ npm run lint
 
 - React
 - Vite
-- JavaScript (ES6+)
+- JavaScript 
 - CSS
 - ESLint
 
