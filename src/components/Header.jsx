@@ -39,7 +39,7 @@ const Header = () => {
             </li>
             <li>
               <a href="#" className="nav-link px-2 text-white">
-                About
+                About Us
               </a>
             </li>
           </ul>
