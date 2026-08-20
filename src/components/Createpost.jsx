@@ -72,7 +72,7 @@ const Createpost = () => {
 
       <div className="mb-3">
         <label htmlFor="reactions" className="form-label">
-          Number of Reactions
+          Number of Reactions you Got
         </label>
         <input
           type="text"
