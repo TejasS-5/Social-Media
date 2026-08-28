@@ -1,6 +1,6 @@
 # React + Vite Project
 
-A modern React application built with **Vite** for fast development and optimized production builds...
+A modern React application built with **Vite** for fast development and optimized production builds.
 
 ## 🚀 Features
 
