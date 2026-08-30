@@ -52,7 +52,7 @@ const Createpost = () => {
           ref={titleElement}
           className="form-control"
           id="titleElement"
-          placeholder="How are you filling today!!!!"
+          placeholder="How are you filling today!"
         />
       </div>
 
