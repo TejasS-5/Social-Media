@@ -92,7 +92,7 @@ const Createpost = () => {
           ref={tagsElement}
           className="form-control"
           id="tagsElement"
-          placeholder="Please enter tags using space"
+          placeholder="Please enter Hashtags using space"
         />
       </div>
 
