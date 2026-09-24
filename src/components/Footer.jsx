@@ -33,7 +33,7 @@ const Footer = () => {
           </li>{" "}
         </ul>{" "}
         <p className="text-center text-body-secondary">
-          © 2025 Company, Inc
+          © 2025 Company,Inc
         </p>{" "}
       </footer>{" "}
     </div>
