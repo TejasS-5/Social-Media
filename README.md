@@ -78,5 +78,4 @@ npm run lint
 This project is licensed under the MIT License.
 
 ---
-
 Developed using **React** and **Vite**
